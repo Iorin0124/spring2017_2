@@ -1,9 +1,9 @@
-# ƒXƒvƒŠƒ“ƒOƒR[ƒX
-‘O”[æ¶‚Æ—V‚Ú‚¤B
+# ã‚¹ãƒ—ãƒªãƒ³ã‚°ã‚³ãƒ¼ã‚¹
+å‰ç´å…ˆç”Ÿã¨éŠã¼ã†
 
-##@‚â‚é‚±‚Æ
-–Git GitHub JavaScript
-–Node.js Socket.io
-–Express Socket.io
-–MongoDB Mongoose
-–Šy‚µ‚­‚â‚ê‚ê‚Î‚¢‚¢‚ÆŽv‚¤
+##ã‚„ã‚‹ã“ã¨
+* Git GitHub JavaScript
+* Node.js Socket.io
+* Express Socket.io
+* MongoDB Mongoose
+* æ¥½ã—ãã‚„ã‚Œã‚Œã°ã„ã„ã¨æ€ã†
